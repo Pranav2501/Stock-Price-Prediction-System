@@ -81,7 +81,7 @@
 ## Project Installation:
 **STEP 1:** Clone the repository from GitHub.
 ```bash
-  git clone https://github.com/Kumar-laxmi/Stock-Prediction-System-Application.git
+  git clone https://github.com/Pranav2501/Stock-Price-Prediction-System
 ```
 
 **STEP 2:** Change the directory to the repository.
